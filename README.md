@@ -1,0 +1,1 @@
+What is the practical use of this repository, just to practice using Git
